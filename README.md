@@ -1,4 +1,4 @@
-📌 Algorithm: Leap Year Checker
+Algorithm: Leap Year Checker
 Step-by-step Algorithm
 
 Step 1: Start the program
@@ -12,7 +12,7 @@ Step 5: Otherwise check whether the year is divisible by 4
 Step 6: Otherwise print False (Not a Leap Year)
 Step 7: Stop the program
 
-📌 Flow Logic (Decision Order Explanation)
+Flow Logic (Decision Order Explanation)
 
 Check in this order:
 
